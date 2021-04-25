@@ -24,7 +24,7 @@ local function chapter_project(project_name)
       optimize "On"
 end
 
-project "program_selector"
+project "ppp"
    kind "ConsoleApp"
    language "C++"
    cppdialect "C++17"

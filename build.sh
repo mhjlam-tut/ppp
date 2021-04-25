@@ -38,5 +38,5 @@ if [[ $BUILD == true ]]; then
 fi
 
 if [[ $RUN == true ]]; then
-	"${DIR}/bin/$configuration/program_selector.exe"
+	"${DIR}/bin/$configuration/ppp.exe"
 fi
