@@ -1,6 +1,8 @@
-# Program selector
+# ppp
 
-A (work-in-progress) framework for automatically setting up C++ programs based on a source folder, and a program selector that simplifies running programs and switching between them.
+Workspace for example and test code in Programming Principles and Practice Using C++ (Second Edition) by Bjarne Stroustrup.
+
+Based on the [program_selector](https://github.com/mhjlam/program_selector) repository.
 
 ## Building
 
